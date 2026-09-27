@@ -1,0 +1,35 @@
+.line{
+    border: none;
+    height: 7px;
+    background-color: red;
+}
+
+.nav, a{
+    color: brown;
+    text-decoration: none;
+    border: none;
+}
+header{
+    text-align: center;
+}
+.date{
+    text-decoration: line-through ;
+}
+.text{
+    border: 2px solid brown;
+    padding: 10px;
+    border-radius: 10px;
+}
+.portal{
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    background-color: rgb(66, 64, 64);
+    text-decoration: beige;
+}
